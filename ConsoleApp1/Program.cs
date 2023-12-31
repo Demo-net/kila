@@ -13,7 +13,7 @@ namespace ConsoleApp1
         { Console.WriteLine("kikj");
             
 
-            Console.WriteLine("koR");
+            Console.WriteLine("kuyR");
             Console.WriteLine("HomeService");
 
             Console.ReadLine();
