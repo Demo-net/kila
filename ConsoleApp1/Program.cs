@@ -9,9 +9,13 @@ namespace ConsoleApp1
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("kikj");
-            Console.WriteLine("Homejhko");
+
+        { Console.WriteLine("kikj");
+            
+
+            Console.WriteLine("kiR");
+            Console.WriteLine("HomeService");
+
             Console.ReadLine();
         }
     }
