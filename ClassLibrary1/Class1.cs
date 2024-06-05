@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ClassLibrary1
 {
     public class Class1
     {
-        int f;
-        int sw;
+       
     }
 }
