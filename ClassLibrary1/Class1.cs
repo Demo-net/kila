@@ -11,7 +11,7 @@ namespace ClassLibrary1
     {
        int j;
         int i;
-
+int x;
        
     }
 }
